@@ -1,0 +1,1 @@
+EJS_gameID = 6; // ID in your website, required for netplay.
